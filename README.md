@@ -1,4 +1,4 @@
-# Investing for Stocks (Buy-and-Hold versus Momentum trading using MPT)
+## Investing for Stocks (Buy-and-Hold versus Momentum trading using MPT)
  Final Project Video: https://drive.google.com/drive/folders/1G98FXmLlHdMGrq2CxjmHRR5AoDQK6qAy?usp=share_link
 
 ### Problem Statement
