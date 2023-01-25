@@ -29,7 +29,7 @@ Next we will take a look at risk (X) vs. return (Y) of the efficient frontliner.
 
 ### Efficient Frontier
 
-!0[image](https://user-images.githubusercontent.com/82319213/214487534-be7ccecc-3b5e-4e79-9572-9b6bde89361d.png)
+![image](https://user-images.githubusercontent.com/82319213/214487534-be7ccecc-3b5e-4e79-9572-9b6bde89361d.png)
 
 Efficient Frontliner: comprises investment portfolios that offer the highest expected return for a specific level of risk.
 With the efficient frontliner, we can see that at a certain point, taking on more risk doesn't increase our returns proportionately. This occurs at ~Risk = 0.00021 which achieves a max return around 0.10%. After this point, for every added unit of return, we are taking more risk (Slope <45 degrees)
