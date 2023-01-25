@@ -38,16 +38,16 @@ With the efficient frontliner, we can see that at a certain point, taking on mor
 In next part of project, we will be picking the three stocks - DPZ, JPM, and DD and evaluate whether momentum trading can generate better portfolio returns than buy and hold. Here we are considering "long" only trades and not trying to make money while shorting of stocks. We use multiple pairs of moving day averages and find out best possible (accurately predicts future price movement and thereby generates high returns) combination of trading days to generate buy/sell signal.
 
 Used below pairs
-10 days - 20 days
-10 days - 50 days
-10 days - 100 days
-20 days - 50 days
-50 days - 100 days
+* 10 days - 20 days
+* 10 days - 50 days
+* 10 days - 100 days
+* 20 days - 50 days
+* 50 days - 100 days
 
 Best pair is which gives maximum return
-For DPZ MT with trading days 10-20 days is giving maximum return.
-For JPM MT with trading days 20-50 days is giving maximum return.
-For DD MT with trading days 10-20 days is giving maximum return.
+* For DPZ MT with trading days 10-20 days is giving maximum return.
+* For JPM MT with trading days 20-50 days is giving maximum return.
+* For DD MT with trading days 10-20 days is giving maximum return.
 
 
 ## Final results and conclusion
